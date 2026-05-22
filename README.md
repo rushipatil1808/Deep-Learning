@@ -72,6 +72,4 @@ jupyter notebook app.ipynb
 
 This project is open source and available under the MIT License.
 
-## Author
 
-[Rushi Patil](https://github.com/rushipatil1808)
