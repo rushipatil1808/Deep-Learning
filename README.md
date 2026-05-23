@@ -2,18 +2,7 @@
 
 A comprehensive collection of Deep Learning, NLP, and AI projects built using Python, TensorFlow/Keras, and Machine Learning techniques.
 
-## Project Structure
 
-```
-Deep-Learning
-├── SentimentAnalysis
-├── MachineTranslation
-│   ├── app.ipynb
-│   ├── requirements.txt
-│   ├── .gradio
-│   └── finetuned-nlp-en-hi
-└── README.md
-```
 
 ## Projects
 
